@@ -5,6 +5,12 @@ Download this repo
 
  - cd sudo-magisk-file
 
+ - pkg install ncurses-utils
+
+ - pkg Install git
+
+ - pkg Install tsu
+
  - tsu
 
  - cat sudo > /data/data/com.termux/files/usr/bin/sudo 
