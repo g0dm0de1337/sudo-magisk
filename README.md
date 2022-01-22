@@ -3,13 +3,16 @@ Magisk v20+ works sudo on TERMUX
 
 Download this repo
 
- - cd sudo-magisk-file
+
+ - cd sudo-magisk
 
  - pkg install ncurses-utils
 
  - pkg Install git
 
  - pkg Install tsu
+
+ - git clone https://GitHub.com/g0dm0de1337/sudo-magisk
 
  - tsu
 
