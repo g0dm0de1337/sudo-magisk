@@ -1,12 +1,20 @@
 # sudo-magisk
 Magisk v20+ works sudo on TERMUX
 
-Go To https://github.com/g0dm0de1337/sudo-magisk-install
+Download this repo
 
-Or Download it directly with termux
+ - cd sudo-magisk-file
 
-  -  git clone https://github.com/g0dm0de1337/sudo-magisk-install
-  -  sh installsudo.sh
+ - tsu
 
-Test it .. reboot your termux an run as normal User..:
-  -  sudo
+ - cat sudo > /data/data/com.termux/files/usr/bin/sudo 
+
+ - cd /data/data/com.termux/files/usr/bin
+
+ - chmod 700 sudo
+
+ - exit
+
+ - sudo
+
+
